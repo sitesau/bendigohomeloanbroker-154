@@ -1,0 +1,22 @@
+{
+  "wheel_id": 850,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-154",
+  "project": "mortgage-brokers-bendigo-pros-and-cons-a1d15af1ceaf92d79e6c3122",
+  "parent_t1_ref": "bendigohomeloanbroker-014",
+  "node_role": "buffer",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers bendigo pros and cons",
+  "intended_url": "https://sitesau.github.io/bendigohomeloanbroker-154/",
+  "tier": "T2",
+  "writeback_nonce": "48e8732b371a9d11",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-brokers-bendigo-014/",
+      "anchor": "https://sites-e470-1.web.app/mortgage-brokers-bendigo-014/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
